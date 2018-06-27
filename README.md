@@ -1,4 +1,4 @@
-this is basically what we will use for the server
+this is basically what we will use for the video server
 # immersive-media-refarch
 From encoder to spherical projection client, an end to end workflow for Live and on-demand immersive experiences.
 
